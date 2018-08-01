@@ -35,7 +35,7 @@ charset=UTF-8" />
   <table id="tableColor" style="border: 4px solid;">
      <tr>
         <td>
-           <span style="font-family:Arial Black;color:orange;font-size:18px">ПРИМЕР, НАЖМИТЕ НА ЭТОТ ТРЕЙТ ДЛЯ ПОКУПКИ</span>
+           <span style="font-family:Arial Black;color:orange;font-size:18px">         ПРИМЕР, НАЖМИТЕ НА ЭТОТ ТРЕЙТ ДЛЯ ПОКУПКИ</span>
      </td>
    </tr>
    </table>
